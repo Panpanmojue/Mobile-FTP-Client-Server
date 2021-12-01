@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/type" android:title="设置TYPE"></item>
+    <item android:id="@+id/mode" android:title="设置MODE"></item>
+    <item android:id="@+id/stru" android:title="设置STRU"></item>
+    <item android:id="@+id/passiveOrActive" android:title="设置主动/被动模式"></item>
+    <item android:id="@+id/keepConnection" android:title="设置是否快速传输"></item>
+
+</menu>
